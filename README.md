@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário é um projeto que mostra os jogos da Copa de 2022.
+O Habits é um app para ajudar a rastrear seus hábitos.
 
 ## 🔖 Layout
 
