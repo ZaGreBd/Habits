@@ -18,7 +18,7 @@ Quadro de rotina para monitorar a constância e assiduidade das tarefas diárias
 <br>
 
 <p align="center">
-  <img alt="quadro-de-hábitos" src=".github/capa.svg" width="100%">
+  <img alt="quadro-de-hábitos" src="./.github/capa.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
